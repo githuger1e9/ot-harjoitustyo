@@ -1,0 +1,113 @@
+commit 5f37af300b5a5465763860af1622a5cd3530d545
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 03:25:25 2020 +0300
+
+    No joo
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f2df81aa4dffcee1525486cd75466867cd1474e2
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 03:21:22 2020 +0300
+
+    lisättii tää hakemisto ja pari filuu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit eba03972a771b534104d7d2ae4b0af2e70680622
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:53:19 2020 +0300
+
+    isoo muuttuu
+
+ eka.txt    | 7 +------
+ kolmas.txt | 3 ++-
+ 2 files changed, 3 insertions(+), 7 deletions(-)
+
+commit 878229600ac9fad7163dccc90bbd41586c41d2f6
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:50:44 2020 +0300
+
+    vaihettiin nimee
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7114e5bc77688f894c307db7c8701eeed82f63db
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:47:54 2020 +0300
+
+    pantiin kylmästi suohon
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 61c4b995fa080e78611e40bd9d87c1e1c33f0793
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:44:47 2020 +0300
+
+    otettiin vähän pois lopusta
+
+ tiedosto.txt | 18 ------------------
+ 1 file changed, 18 deletions(-)
+
+commit abf06227ec8bf0f269cba8b98186d0601ccf1914
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:42:10 2020 +0300
+
+    lisättiin pirusti randomirivejä tekstii
+
+ tiedosto.txt | 42 ++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 42 insertions(+)
+
+commit 43e6a6b04adde9911083db16cba60d5543b63e03
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:20:08 2020 +0300
+
+    Megamuutosh
+
+ stuff/tietoo.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 97a491b6b83b88ecb48519292d952ff4cfe2b3af
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:19:25 2020 +0300
+
+    Muutos johtaa...!
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 73aabf55a3428a6f512b84297cc33443920ed7ee
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:17:31 2020 +0300
+
+    lissee lissee
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ef74c9eb6ad457234f09be2f7f8608565577817c
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 02:14:00 2020 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit 7ac1e328cb363bad17e130344c3aeba0e9696202
+Author: Markus Ahlstedt <yrittaja1e9@gmail.com>
+Date:   Wed Sep 16 00:22:41 2020 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 1 +
+ 1 file changed, 1 insertion(+)
